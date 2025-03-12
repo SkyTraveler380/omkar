@@ -1,0 +1,4 @@
+@echo off
+rem This script displays a Hello message
+
+echo Hello, Omkar!
